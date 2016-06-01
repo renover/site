@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://renover.github.io/site/</loc>
+    <lastmod>2016-06-01T16:32:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://renover.github.io/site/page/where/</loc>
+    <lastmod>2016-06-01T16:32:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://renover.github.io/site/post/post-01/</loc>
+    <lastmod>2016-05-30T20:33:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://renover.github.io/site/page/about/</loc>
+    <lastmod>2016-05-30T20:33:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://renover.github.io/site/page/diaporama/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://renover.github.io/site/page/contact/</loc>
+    <lastmod>2016-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://renover.github.io/site/page/gallery/</loc>
+    <lastmod>2016-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

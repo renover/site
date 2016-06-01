@@ -1,0 +1,16 @@
+1365x1024-01.jpg
+1365x1024-02.jpg
+1365x1024-03.jpg
+1365x1024-04.jpg
+1365x1024-07.jpg
+1365x1024-08.jpg
+1365x1024-09.jpg
+1365x1024-10.jpg
+1365x1024-11.jpg
+1365x1024-12.jpg
+768x1024-05.jpg
+768x1024-06.jpg
+ls.txt
+/home/captain/Documents/PierreBouraud/carousel/assets/img/pierbou/
+
+/home/captain/Documents/PierreBouraud/carousel/assets/img/pierbou/thumbnail/

@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre Bouraud</title>
+    <link>http://renover.github.io/site/</link>
+    <description>Recent content on Pierre Bouraud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 01 Jun 2016 16:32:13 +0200</lastBuildDate>
+    <atom:link href="http://renover.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nous trouver</title>
+      <link>http://renover.github.io/site/page/where/</link>
+      <pubDate>Wed, 01 Jun 2016 16:32:13 +0200</pubDate>
+      
+      <guid>http://renover.github.io/site/page/where/</guid>
+      <description>&lt;script src=&#34;http://maps.googleapis.com/maps/api/js&#34;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+var myCenter=new google.maps.LatLng(42.8134194, 2.3335052);
+
+function initialize()
+{
+var mapProp = {
+  center:myCenter,
+  zoom:12,
+    panControl:true,
+    zoomControl:true,
+    mapTypeControl:true,
+    scaleControl:true,
+    streetViewControl:true,
+    overviewMapControl:true,
+    rotateControl:true,    
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  };
+
+var map=new google.maps.Map(document.getElementById(&#34;googleMap&#34;),mapProp);
+
+var marker=new google.maps.Marker({
+  position:myCenter,
+  });
+
+marker.setMap(map);
+
+var infowindow = new google.maps.InfoWindow({
+  content:&#34;Pierre Bouraud&#34;
+  });
+
+infowindow.open(map,marker);
+}
+
+google.maps.event.addDomListener(window, &#39;load&#39;, initialize);
+&lt;/script&gt;
+
+&lt;div id=&#34;googleMap&#34; style=&#34;width:100%;height:480px;&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grande façade en pierres apparentes à Caudiès de Fenouillèdes</title>
+      <link>http://renover.github.io/site/post/post-01/</link>
+      <pubDate>Mon, 30 May 2016 20:33:16 +0200</pubDate>
+      
+      <guid>http://renover.github.io/site/post/post-01/</guid>
+      <description>&lt;p&gt;Realisation d&amp;rsquo;une façade en pierres apparentes&lt;/p&gt;
+
+&lt;p&gt;La première étape consiste à nettoyer le mur en pierre, avec de préférence un nettoyeur haute pression pour gagner du temps. Si la pierre est calcaire, il faut utiliser une solution composée d’eau et de savon doux à utiliser avec une brosse de crin, pour ensuite rincer au tuyau d’arrosage.&lt;/p&gt;
+
+&lt;p&gt;Ensuite, on doit creuser les joints pour que le mortier trouve suffisamment de profondeur pour adhérer. A l’aide du marteau et du burin, il faut dégarnir les pierres du mur, en tapotant tout en douceur, en veillant à bien dégager les vieux joints. Ensuite, une brosse à chiendent permettra d’éliminer la poussière du mur. La veille des travaux,  le mur en pierre sera généreusement arrosé.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;blogImageLeft&#34;&gt;
+    
+        &lt;img src=&#34;../../images/1365x1024-12.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Maison à Caudiès, avant les travaux&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;blogImageLeft&#34;&gt;
+    
+        &lt;img src=&#34;../../images/1365x1024-03.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Les travaux se terminent&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;blogImageLeft&#34;&gt;
+    
+        &lt;img src=&#34;../../images/1365x1024-04.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Résultat final ~ vue 1&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;blogImageLeft&#34;&gt;
+    
+        &lt;img src=&#34;../../images/1365x1024-02.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Résultat final ~ vue 2&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;div style=&#34;clear: left;&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>L&#39;Entreprise Pierre BOURAUD</title>
+      <link>http://renover.github.io/site/page/about/</link>
+      <pubDate>Mon, 30 May 2016 20:33:16 +0200</pubDate>
+      
+      <guid>http://renover.github.io/site/page/about/</guid>
+      <description>
+
+&lt;p&gt;L’Entreprise Pierre Bouraud est spécialisée dans les travaux de ravalement de façade en enduits, enduits imitation pierre et pierres apparentes. Nous réalisons vos travaux de ravalement de façade en neuf ou rénovation. Nous intervenons sur tous types de bâtiment pour le nettoyage et l&amp;rsquo;imperméabilisation des façades, la pose de badigeon, d&amp;rsquo;enduit, de chaux ou de peinture. Nous intervenons dans l&amp;rsquo;Aude, et les Pyrénées-Orientales. Nous pouvons vous établir rapidement et sans engagement un devis gratuit . Notre expérience et notre professionnalisme vous aideront dans le choix des matériaux à utiliser pour votre projet. Nous assurons un travail soigné et de qualité.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;20 années d&amp;rsquo;expérience&lt;/li&gt;
+&lt;li&gt;installé  depuis 2009&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;nos-prestations:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Nos prestations.&lt;/h2&gt;
+
+&lt;p&gt;Nous vous proposons les solutions les mieux adaptées  à vos besoins pour votre patrimoine&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MAÇONNERIE : terrassements, gros œuvre, rénovations, ravalements, clôtures, dallages, extensions, garage, appentis, conduits fumée, démolition, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;TOITURE : charpente, tuiles, fenêtre de toit, gouttière, remaniement,démoussage&lt;/li&gt;
+&lt;li&gt;CARRELAGE : faïence, parquet, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Enduits extérieurs&lt;/li&gt;
+&lt;li&gt;Traitements de façades&lt;/li&gt;
+&lt;li&gt;Pierres apparentes&lt;/li&gt;
+&lt;li&gt;Rénovations&lt;/li&gt;
+&lt;li&gt;Mur de clôture&lt;/li&gt;
+&lt;li&gt;Enduits imitations pierres&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Devis gratuit &lt;i class=&#34;fa fa-phone fa-2x&#34;&gt;&lt;/i&gt;&lt;big&gt;06 74 61 95 74&lt;/big&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-envelope fa-2x&#34;&gt;&lt;/i&gt;&lt;a class=&#34;email&#34; href=&#34;mailto: pierre.bouraud@orange.fr&#34;&gt;pierre.bouraud@orange.fr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diaporama</title>
+      <link>http://renover.github.io/site/page/diaporama/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://renover.github.io/site/page/diaporama/</guid>
+      <description>&lt;p&gt;&lt;br&gt;
+&lt;div id=&#34;myCarousel&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34;&gt;
+&lt;!-- Indicators --&gt;
+&lt;ol class=&#34;carousel-indicators&#34;&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&gt;&lt;/li&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;1&#34;&gt;&lt;/li&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;2&#34;&gt;&lt;/li&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;3&#34;&gt;&lt;/li&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;4&#34;&gt;&lt;/li&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;5&#34;&gt;&lt;/li&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;6&#34;&gt;&lt;/li&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;7&#34;&gt;&lt;/li&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;8&#34;&gt;&lt;/li&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;9&#34;&gt;&lt;/li&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;10&#34;&gt;&lt;/li&gt;
+&lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;11&#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;!-- Wrapper for slides --&gt;
+
+&lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
+&lt;div class=&#34;item active&#34;&gt;
+&lt;img src=&#34;../../images/1365x1024-01.jpeg&#34; alt=&#34;image_01&#34; &gt;
+&lt;/div&gt;
+&lt;div class=&#34;item &#34;&gt;
+&lt;img src=&#34;../../images/1365x1024-12.jpeg&#34; alt=&#34;image_02&#34; &gt;
+&lt;/div&gt; 
+&lt;div class=&#34;item &#34;&gt;
+&lt;img src=&#34;../../images/1365x1024-02.jpeg&#34; alt=&#34;image_03&#34; &gt;
+&lt;/div&gt;
+&lt;div class=&#34;item&#34;&gt;
+&lt;img src=&#34;../../images/1365x1024-03.jpeg&#34;  alt=&#34;image_04&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;item&#34;&gt;
+&lt;img src=&#34;../../images/1365x1024-04.jpeg&#34;  alt=&#34;image_05&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;item&#34;&gt;
+&lt;img src=&#34;../../images/768x1024-05.jpeg&#34;   alt=&#34;image_06&#34; &gt;
+&lt;/div&gt;
+&lt;div class=&#34;item&#34;&gt;
+&lt;img src=&#34;../../images/768x1024-06.jpeg&#34;   alt=&#34;image_07&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;item&#34;&gt;
+&lt;img src=&#34;../../images/1365x1024-07.jpeg&#34;  alt=&#34;image_08&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;item&#34;&gt;
+&lt;img src=&#34;../../images/1365x1024-08.jpeg&#34;  alt=&#34;image_09&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;item&#34;&gt;
+&lt;img src=&#34;../../images/1365x1024-09.jpeg&#34;  alt=&#34;image_10&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;item&#34;&gt;
+&lt;img src=&#34;../../images/1365x1024-10.jpeg&#34;  alt=&#34;image_01&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;item&#34;&gt;
+&lt;img src=&#34;../../images/1365x1024-11.jpeg&#34;  alt=&#34;image_11&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;!-- Left and right controls --&gt;
+
+&lt;p&gt;&lt;a class=&#34;left carousel-control&#34; href=&#34;#myCarousel&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
+&lt;span class=&#34;glyphicon glyphicon-chevron-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+&lt;span class=&#34;sr-only&#34;&gt;Previous&lt;/span&gt;
+&lt;/a&gt;
+&lt;a class=&#34;right carousel-control&#34; href=&#34;#myCarousel&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&gt;
+&lt;span class=&#34;glyphicon glyphicon-chevron-right&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+&lt;span class=&#34;sr-only&#34;&gt;Next&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://renover.github.io/site/page/contact/</link>
+      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://renover.github.io/site/page/contact/</guid>
+      <description>&lt;p&gt;Vous pouvez nous joindre par Email: &lt;a class=&#34;email&#34; href=&#34;mailto: pierre.bouraud@orange.fr&#34;&gt;pierre.bouraud@orange.fr&lt;/a&gt; ou nous envoyer un message en remplissant le formulaire suivant:&lt;/p&gt;
+
+&lt;style&gt;
+input[type=text], select {
+    width: 100%;
+    padding: 6px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 40%;
+    background-color: #403040;
+   font-size:1.5em;
+    color: white;
+    padding: 6px;;
+    margin: 8px 0;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: gold;
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+input, textarea {    background-color: #d0c0d0;}
+#main  {background-color: white; opacity:1;}
+
+&lt;/style&gt;
+
+&lt;form action=&#34;mailto:pierre.bouraud@orange.fr&#34;&gt;
+  &lt;fieldset&gt;
+    &lt;legend&gt;N&#39;hésitez pas à nous envoyer un message pour recevoir un devis gratuit ou d&#39;autres informations, merci:&lt;/legend&gt;&lt;br&gt;
+    Prénom:&lt;br&gt;
+    &lt;input type=&#34;text&#34; name=&#34;firstname&#34; value=&#34;&#34;&gt;
+    &lt;br&gt;
+    Nom:&lt;br&gt;
+    &lt;input type=&#34;text&#34; name=&#34;lastname&#34; value=&#34;&#34;&gt;  
+    Email:&lt;br&gt;
+    &lt;input type=&#34;text&#34; name=&#34;email&#34; value=&#34;...@....&#34;&gt;  
+    Ecrivez votre message:&lt;br&gt;
+    &lt;textarea&gt;...&lt;/textarea&gt;
+    &lt;br&gt;&lt;br&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Envoi&#34;&gt;
+
+  &lt;/fieldset&gt;
+&lt;/form&gt;
+
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Galerie</title>
+      <link>http://renover.github.io/site/page/gallery/</link>
+      <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://renover.github.io/site/page/gallery/</guid>
+      <description>&lt;div class=&#34;w3-container&#34;&gt;
+  &lt;p&gt;Cliquer sur une image pour l&#39;afficher plein écran.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;w3-row-padding&#34;&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/1365x1024-01.jpeg&#34; style=&#34;width:100%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/1365x1024-12.jpeg&#34; style=&#34;width:100%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/1365x1024-02.jpeg&#34; style=&#34;width:100%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;w3-row-padding&#34;&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/1365x1024-03.jpeg&#34; style=&#34;width:100%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/1365x1024-04.jpeg&#34; style=&#34;width:100%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/768x1024-05.jpeg&#34; style=&#34;width:56%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;w3-row-padding&#34;&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/768x1024-06.jpeg&#34; style=&#34;width:56%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/1365x1024-07.jpeg&#34; style=&#34;width:100%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/1365x1024-08.jpeg&#34; style=&#34;width:100%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;w3-row-padding&#34;&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/1365x1024-09.jpeg&#34; style=&#34;width:100%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/1365x1024-10.jpeg&#34; style=&#34;width:100%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;w3-container w3-third&#34;&gt;
+    &lt;img src=&#34;../../images/1365x1024-11.jpeg&#34; style=&#34;width:100%;cursor:pointer&#34; 
+    onclick=&#34;onClick(this)&#34; class=&#34;w3-hover-opacity&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;modal01&#34; class=&#34;w3-modal&#34; onclick=&#34;this.style.display=&#39;none&#39;&#34;&gt;
+  &lt;span class=&#34;w3-closebtn w3-hover-red w3-text-white w3-xxlarge w3-container w3-display-topright&#34;&gt;&amp;times;&lt;/span&gt;
+  &lt;div class=&#34;w3-modal-content w3-animate-zoom&#34;&gt;
+    &lt;img id=&#34;img01&#34; style=&#34;width:100%&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+function onClick(element) {
+  document.getElementById(&#34;img01&#34;).src = element.src;
+  document.getElementById(&#34;modal01&#34;).style.display = &#34;block&#34;;
+}
+&lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
